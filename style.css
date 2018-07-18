@@ -203,7 +203,7 @@ pre {
 .site-name{
     font-family: 'proxima nova',helvetica,sans-serif;
     font-size: 66px;
-	font-weight:500;	
+	font-weight:bold;	
     color: #90D4C5;
     line-height: 1.5em;
     position: relative;
