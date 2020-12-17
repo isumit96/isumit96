@@ -25,9 +25,9 @@ src: url(/fonts/Proxima-Nova-Regular.otf);
 
 /* Extra small devices (phones, 600px and down) */
 @media only screen and (max-width: 600px) {
-  .title-resp {font-size: 42px;}
+  .title-resp {font-size: 38px !important;}
   .site-footer {text-align:center;}
-  .languages {text-align:center;float:center;padding-top:20px;}
+  .languages {text-align:center;float:center !important;padding-top:20px;}
 }
 
 /* Small devices (portrait tablets and large phones) */
